@@ -1,5 +1,5 @@
 {
-  "name": "pancakeswap-revalidate-edge-function",
+  "name": "revalidate-edge-function",
   "version": "0.1.0",
   "private": true,
   "scripts": {
